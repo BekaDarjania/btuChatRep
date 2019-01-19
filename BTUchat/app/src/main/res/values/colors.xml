@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d9dff</color>
+    <color name="colorPrimaryDark">#002bac</color>
+    <color name="colorAccent">#861b6dd8</color>
+    <color name="colorUserMsg">#5100ff</color>
+    <color name="colorUserMsgText">#fff</color>
+    <color name="colorOtherUserText">#333</color>
+    <color name="appWhite">#fff</color>
+    <color name="appGray">#dcdcdc</color>
+    <color name="appBlack">#333</color>
+    <color name="appGreen">#0166cc</color>
+</resources>
